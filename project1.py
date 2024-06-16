@@ -1,3 +1,5 @@
+#Program to run PIG game with 2-4 players
+
 import random
 
 
